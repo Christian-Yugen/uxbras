@@ -1,0 +1,203 @@
+.acessibilidade,
+.headingWrapper {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.acessibilidade {
+  margin: 0;
+  width: 662px;
+  position: relative;
+  font-size: inherit;
+  line-height: 81px;
+  font-weight: 700;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.headingWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.subtitulo {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-35xl);
+  line-height: 76px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.accessibilityHeading,
+.accessibilityTitle {
+  width: 848px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.accessibilityTitle {
+  width: 1225px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.visual {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.linkVisual {
+  height: 60px;
+  width: 235px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-5xl);
+}
+.visual1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.linkAuditiva {
+  height: 60px;
+  width: 235px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-5xl);
+}
+.visual2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.linkMotora {
+  height: 60px;
+  width: 235px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-5xl);
+}
+.visual3 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.linkNeurodiversa {
+  height: 60px;
+  width: 235px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-5xl);
+}
+.accessibilityTypeLinks {
+  width: 1225px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-8xl);
+  color: var(--text-black-10);
+}
+.sectionAcessicilidade {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-33xl) var(--padding-4xl) var(--padding-84xl)
+    var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-49xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-53xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1150px) {
+  .accessibilityTypeLinks {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 800px) {
+  .acessibilidade {
+    font-size: var(--font-size-39xl);
+    line-height: 65px;
+  }
+  .subtitulo {
+    font-size: var(--font-size-24xl);
+    line-height: 60px;
+  }
+  .sectionAcessicilidade {
+    gap: var(--gap-15xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .acessibilidade {
+    font-size: var(--font-size-24xl);
+    line-height: 49px;
+  }
+  .subtitulo {
+    font-size: var(--font-size-13xl);
+    line-height: 45px;
+  }
+  .visual,
+  .visual1,
+  .visual2,
+  .visual3 {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .sectionAcessicilidade {
+    gap: var(--gap-mid);
+    padding-top: var(--padding-1441xl);
+    padding-bottom: var(--padding-48xl);
+    box-sizing: border-box;
+  }
+}

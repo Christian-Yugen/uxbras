@@ -1,0 +1,261 @@
+.heading2 {
+  margin: 0;
+  width: 394px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.pmiProjectManagement,
+.professionalPmp {
+  margin: 0;
+}
+.pmiProjectManagementContainer {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+}
+.link {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-7xl) var(--padding-5xs)
+    var(--padding-10xl);
+}
+.projectManagement {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+}
+.link1 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-23xl) var(--padding-lg)
+    var(--padding-27xl);
+  white-space: nowrap;
+}
+.dataModeling {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 111.2px;
+}
+.link2 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-48xl) var(--padding-lg)
+    var(--padding-51xl);
+  white-space: nowrap;
+}
+.businessAnalysis {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+}
+.link3 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-35xl) var(--padding-lg)
+    var(--padding-39xl);
+  white-space: nowrap;
+}
+.dataAnalysis {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 102.6px;
+}
+.link4 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-52xl) var(--padding-lg)
+    var(--padding-55xl);
+  white-space: nowrap;
+}
+.microsoftPowerBi {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+}
+.link5 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-31xl) var(--padding-lg)
+    var(--padding-34xl);
+  white-space: nowrap;
+}
+.link6,
+.sql {
+  display: flex;
+  justify-content: center;
+}
+.sql {
+  width: 32.1px;
+  position: relative;
+  line-height: 19.2px;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 32.1px;
+}
+.link6 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-lg) var(--padding-xl) var(--padding-lg)
+    var(--padding-2xl);
+}
+.pmiPmbok {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 93.4px;
+}
+.link7 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-57xl) var(--padding-lg)
+    var(--padding-60xl);
+  white-space: nowrap;
+}
+.realEstateInvesting {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+}
+.link8 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-23xl) var(--padding-lg)
+    var(--padding-26xl);
+  white-space: nowrap;
+}
+.pmiCertifiedAssociate,
+.projectManagemet {
+  margin: 0;
+}
+.pmiCertifiedAssociateContainer {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+}
+.link9,
+.programLinks,
+.sectionProgramas {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link9 {
+  width: 252px;
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: var(--padding-11xs-6) var(--padding-6xl) var(--padding-mid)
+    var(--padding-8xl);
+}
+.programLinks,
+.sectionProgramas {
+  max-width: 100%;
+}
+.programLinks {
+  width: 1292px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 23.6px 7px;
+  min-height: 144px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--text-black-10);
+}
+.sectionProgramas {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke-200);
+  flex-direction: column;
+  padding: var(--padding-20xl) var(--padding-43xl) var(--padding-61xl-6);
+  box-sizing: border-box;
+  gap: var(--gap-37xl-8);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1350px) {
+  .sectionProgramas {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading2 {
+    font-size: var(--font-size-7xl);
+    line-height: 23px;
+  }
+  .sectionProgramas {
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading2 {
+    font-size: var(--font-size-lgi);
+    line-height: 17px;
+  }
+}

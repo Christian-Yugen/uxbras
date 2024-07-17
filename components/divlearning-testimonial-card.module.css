@@ -1,0 +1,169 @@
+.testimonialQuoteIcon {
+  width: 27px;
+  height: 24px;
+  position: relative;
+  object-fit: contain;
+}
+.alvinLim,
+.alvinLimjpegIcon {
+  position: relative;
+  flex-shrink: 0;
+}
+.alvinLimjpegIcon {
+  height: 48px;
+  width: 48px;
+  border-radius: var(--br-5xl);
+  overflow: hidden;
+  object-fit: contain;
+}
+.alvinLim {
+  line-height: 17px;
+  display: inline-block;
+  min-width: 49px;
+}
+.dimensional,
+.technicalCoFounderCto {
+  margin: 0;
+}
+.technicalCoFounderCtoContainer {
+  margin-top: -2px;
+  position: relative;
+  line-height: 16.8px;
+  flex-shrink: 0;
+}
+.authorInfo,
+.authorNameContainer,
+.authorProfessionContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.authorProfessionContainer {
+  height: 31.6px;
+  flex-direction: row;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+}
+.authorInfo,
+.authorNameContainer {
+  flex-direction: column;
+}
+.authorInfo {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+}
+.star1Icon,
+.star2Icon,
+.star3Icon,
+.star4Icon,
+.star5Icon {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  object-fit: cover;
+  min-height: 22px;
+}
+.ratingStars,
+.testimonialRating {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.ratingStars {
+  justify-content: flex-start;
+  gap: var(--gap-7xs-5);
+}
+.testimonialRating {
+  justify-content: flex-end;
+  padding: 0 var(--padding-8xl);
+}
+.authorDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-10xs-8);
+}
+.testimonialAuthor,
+.testimonialContent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.testimonialContent {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-mini-4);
+}
+.aGameChangerAnd,
+.uxbrasWasTruly {
+  font-family: var(--font-roboto);
+}
+.dimensionalToLife,
+.uxbrasWasTrulyAGameChange {
+  margin: 0;
+}
+.uxbrasWasTrulyContainer {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 19.6px;
+  color: var(--color-black);
+}
+.testimonialCard {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl-5);
+}
+.linkView {
+  position: relative;
+  line-height: 16.8px;
+}
+.linkImg {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divlearningTestimonialCard,
+.testimonialAction {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs-8);
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.divlearningTestimonialCard {
+  margin-top: -2px;
+  width: 311px;
+  border-radius: var(--br-5xs);
+  background-color: var(--text-black-10);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: var(--padding-lgi) var(--padding-5xl) var(--padding-56xl)
+    var(--padding-6xl);
+  gap: var(--gap-29xl-7);
+  text-align: left;
+  font-size: var(--font-size-xs-8);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 450px) {
+  .divlearningTestimonialCard {
+    gap: var(--gap-5xl);
+    padding-top: var(--padding-1441xl);
+    padding-bottom: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+}

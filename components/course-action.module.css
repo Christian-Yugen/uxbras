@@ -1,0 +1,96 @@
+.strikethrough7499,
+.viewFeatures {
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  min-width: 55px;
+  white-space: nowrap;
+}
+.strikethrough7499 {
+  text-decoration: line-through;
+  line-height: 14px;
+  min-width: 44.1px;
+}
+.courseButtonDetails,
+.originalPriceContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.originalPriceContainer {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+}
+.courseButtonDetails {
+  flex-direction: row;
+  gap: var(--gap-xs);
+}
+.moreFeatures {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--text-black-10);
+  text-align: center;
+  display: inline-block;
+  min-width: 104px;
+}
+.buttonactive {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-smi-5) var(--padding-26xl);
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.buttonactive:hover {
+  background-color: var(--color-darkslategray-400);
+}
+.materialSymbolsfavoriteOutlIcon {
+  height: 27px;
+  width: 27px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameLove {
+  height: 44px;
+  width: 44px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-6xs);
+}
+.courseAction,
+.saveCourseButton {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.courseAction {
+  flex-direction: column;
+  gap: var(--gap-lgi-5);
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-darkslategray-500);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 450px) {
+  .saveCourseButton {
+    flex-wrap: wrap;
+  }
+}

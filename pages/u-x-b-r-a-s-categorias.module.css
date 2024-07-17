@@ -1,0 +1,118 @@
+.sectionCursos {
+align-self: stretch;
+background-color: var(--color-gray-100);
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+justify-content: flex-start;
+padding: var(--padding-37xl) var(--padding-60xl) var(--padding-17xl) var(--padding-39xl);
+box-sizing: border-box;
+gap: var(--gap-26xl);
+max-width: 100%;
+}
+.webDesignCourses {
+margin: 0;
+position: relative;
+font-size: inherit;
+line-height: 47px;
+font-weight: 700;
+font-family: inherit;
+display: inline-block;
+max-width: 100%;
+}
+.webDesignContent {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: 76px;
+max-width: 100%;
+}
+.sectionCursos1 {
+align-self: stretch;
+background-color: var(--color-gray-100);
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: 68px 66px 95px;
+box-sizing: border-box;
+gap: 40px;
+max-width: 100%;
+text-align: left;
+font-size: 39px;
+color: var(--color-black);
+font-family: var(--font-roboto);
+}
+.footer {
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+max-width: 100%;
+}
+.uxbrasCategorias {
+width: 100%;
+position: relative;
+background-color: var(--color-gray-700);
+overflow-y: auto;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: 0px 0px var(--padding-12xs-2);
+box-sizing: border-box;
+line-height: normal;
+letter-spacing: normal;
+}
+
+@media screen and (max-width: 1350px) {
+.sectionCursos1 {
+padding-top: 44px;
+padding-bottom: var(--padding-43xl);
+box-sizing: border-box;
+}
+
+}
+@media screen and (max-width: 800px) {
+.sectionCursos {
+gap: var(--gap-3xl);
+padding: var(--padding-17xl) var(--padding-20xl) var(--padding-4xl) var(--padding-10xl);
+box-sizing: border-box;
+}
+
+.webDesignCourses {
+font-size: 31px;
+line-height: 37px;
+}
+
+.webDesignContent {
+gap: 38px;
+}
+
+.sectionCursos1 {
+gap: var(--gap-xl);
+padding: var(--padding-10xl) var(--padding-14xl) 40px;
+box-sizing: border-box;
+}
+
+}
+@media screen and (max-width: 450px) {
+.sectionCursos {
+padding-top: var(--padding-4xl);
+padding-bottom: var(--padding-xl);
+box-sizing: border-box;
+}
+
+.webDesignCourses {
+font-size: 23px;
+line-height: 28px;
+}
+
+.webDesignContent {
+gap: 19px;
+}
+
+}

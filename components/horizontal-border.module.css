@@ -1,0 +1,278 @@
+.container {
+height: 209px;
+width: 913px;
+position: relative;
+box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.04);
+border-radius: var(--br-9xs);
+background-color: var(--text-black-10);
+border: 1px solid var(--color-black);
+box-sizing: border-box;
+display: none;
+max-width: 100%;
+}
+.backgroundborderIcon {
+align-self: stretch;
+flex: 1;
+position: relative;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+object-fit: cover;
+z-index: 1;
+}
+.horizontalBorders {
+height: 177.8px;
+width: 311px;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-11xs) 0px 0px;
+box-sizing: border-box;
+min-width: 311px;
+}
+.r7499 {
+width: 100px;
+position: relative;
+line-height: 16px;
+display: flex;
+align-items: center;
+flex-shrink: 0;
+white-space: nowrap;
+z-index: 1;
+}
+.courseInfoOne {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-end;
+text-align: right;
+}
+.linkCommunication {
+flex: 1;
+position: relative;
+line-height: 20px;
+display: inline-block;
+max-width: 100%;
+}
+.heading3 {
+align-self: stretch;
+height: 41px;
+overflow: hidden;
+flex-shrink: 0;
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: flex-start;
+padding: 0px var(--padding-7xs) var(--padding-3xl) 0px;
+box-sizing: border-box;
+max-width: 100%;
+z-index: 1;
+}
+.becomeAnEffective {
+flex: 1;
+position: relative;
+line-height: 19.6px;
+display: inline-block;
+max-width: 100%;
+}
+.container1 {
+align-self: stretch;
+height: 39.2px;
+overflow: hidden;
+flex-shrink: 0;
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: flex-start;
+padding: 0px 0px var(--padding-12xs-4);
+box-sizing: border-box;
+max-width: 100%;
+z-index: 1;
+font-size: var(--font-size-sm-9);
+}
+.courseTitleOne {
+width: 460px;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-11xs-2);
+max-width: 100%;
+font-size: var(--font-size-lg);
+}
+.ratingIcon {
+align-self: stretch;
+height: 19px;
+position: relative;
+max-width: 100%;
+overflow: hidden;
+flex-shrink: 0;
+z-index: 1;
+}
+.starsOne {
+width: 132px;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-11xs-5) 0px 0px;
+box-sizing: border-box;
+}
+.enrolledCountOne {
+position: relative;
+line-height: 140%;
+display: inline-block;
+min-width: 11px;
+z-index: 1;
+}
+.studentsCountOne {
+position: relative;
+line-height: 140%;
+display: inline-block;
+min-width: 39px;
+z-index: 1;
+}
+.dividerTwoOne {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: 0px var(--padding-5xs) 0px 0px;
+color: var(--color-black);
+}
+.divider {
+width: 6px;
+height: 6px;
+position: relative;
+border-radius: 50%;
+background-color: var(--text-black-50);
+z-index: 1;
+}
+.studentsCountTwoOne {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-5xs) 0px 0px;
+}
+.dividerOne {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: 0px var(--padding-5xs) 0px 0px;
+gap: var(--gap-9xs);
+}
+.courses {
+position: relative;
+line-height: 140%;
+display: inline-block;
+min-width: 81px;
+z-index: 1;
+}
+.divider1 {
+width: 6px;
+height: 6px;
+position: relative;
+border-radius: 50%;
+background-color: var(--text-black-50);
+z-index: 1;
+}
+.enrolledDividerOne {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-5xs) 0px 0px;
+}
+.users {
+position: relative;
+line-height: 140%;
+display: inline-block;
+min-width: 63px;
+z-index: 1;
+}
+.courseStatsOne {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-xs);
+color: var(--color-black);
+font-family: var(--font-roboto);
+}
+.starsOneParent {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-9xs);
+max-width: 100%;
+font-size: var(--regular-body-size);
+color: var(--text-black-100);
+font-family: var(--regular-body);
+}
+.courseCardOne {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-4xs-3);
+min-width: 344px;
+max-width: 100%;
+}
+.horizontalborder {
+align-self: stretch;
+box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.04);
+border-radius: var(--br-9xs);
+background-color: var(--text-black-10);
+border: 1px solid var(--color-black);
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-sm) var(--padding-lg);
+gap: var(--gap-9xl);
+max-width: 100%;
+text-align: left;
+font-size: var(--font-size-3xl);
+color: var(--color-black);
+font-family: var(--font-roboto);
+}
+
+@media screen and (max-width: 1150px) {
+.backgroundborderIcon {
+align-self: stretch;
+width: auto;
+}
+
+.horizontalBorders {
+flex: 1;
+}
+
+.horizontalborder {
+flex-wrap: wrap;
+}
+
+}
+@media screen and (max-width: 800px) {
+.starsOneParent {
+flex-wrap: wrap;
+}
+
+.courseCardOne {
+min-width: 100%;
+}
+
+}
+@media screen and (max-width: 450px) {
+.r7499 {
+font-size: var(--font-size-lg);
+line-height: 13px;
+}
+
+}

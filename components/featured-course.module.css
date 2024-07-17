@@ -1,0 +1,675 @@
+.containerIcon {
+align-self: stretch;
+height: 173px;
+position: relative;
+max-width: 100%;
+overflow: hidden;
+flex-shrink: 0;
+object-fit: cover;
+}
+.theCompleteAiPowered {
+margin: 0;
+}
+.copywritingCourse {
+margin: 0;
+}
+.theCompleteAiPoweredContainer {
+align-self: stretch;
+position: relative;
+line-height: 24px;
+}
+.ingTomasMoravek {
+align-self: stretch;
+position: relative;
+font-size: var(--font-size-sm);
+line-height: 24px;
+}
+.courseTitles {
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-7xs);
+font-size: var(--font-size-lg);
+}
+.instructorSpan {
+position: relative;
+letter-spacing: -0.05px;
+line-height: 20px;
+display: inline-block;
+min-width: 26px;
+}
+.svgIcon {
+height: 16.6px;
+width: 18.6px;
+position: relative;
+overflow: hidden;
+flex-shrink: 0;
+}
+.kReviews {
+position: relative;
+line-height: 20px;
+display: inline-block;
+min-width: 120px;
+}
+.reviewDetailsOne {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px 0px var(--padding-12xs);
+}
+.instructorDetails {
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: flex-start;
+gap: var(--gap-7xs-2);
+}
+.courseDetails {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-base-8);
+}
+.courseCardItems {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px var(--padding-3xl) 0px var(--padding-5xl);
+}
+.sectionSectionCarousel {
+width: 100%;
+height: 100%;
+z-index: 1;
+object-fit: contain;
+position: absolute;
+left: 0px;
+top: 4px;
+transform: scale(1.471);
+}
+.wrapperSectionSectionCa {
+width: 51px;
+height: 51px;
+position: absolute;
+margin: 0 !important;
+bottom: 180px;
+left: -42px;
+z-index: 1;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.link1 {
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 1px 2px rgba(0, 0, 0, 0.15), 0px 1px 4px rgba(0, 0, 0, 0.15);
+background-color: var(--text-black-10);
+border: 1px solid var(--color-black);
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+justify-content: flex-start;
+padding: 0px 0px var(--padding-xl);
+position: relative;
+gap: var(--gap-6xl);
+font-size: var(--font-size-mid);
+}
+.containerIcon1 {
+align-self: stretch;
+height: 173px;
+position: relative;
+max-width: 100%;
+overflow: hidden;
+flex-shrink: 0;
+object-fit: cover;
+}
+.chatgptCompleteGuide {
+align-self: stretch;
+position: relative;
+line-height: 24px;
+}
+.julianMelansonBenza {
+align-self: stretch;
+position: relative;
+font-size: var(--font-size-sm);
+line-height: 20px;
+}
+.ratingIcon {
+position: relative;
+letter-spacing: -0.05px;
+line-height: 20px;
+display: inline-block;
+min-width: 26px;
+}
+.svgIcon1 {
+width: 18.6px;
+height: 16.6px;
+position: relative;
+overflow: hidden;
+flex-shrink: 0;
+}
+.reviewIconsOne {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px 0px var(--padding-10xs-4);
+}
+.kReviews1 {
+text-decoration: none;
+position: relative;
+line-height: 20px;
+color: inherit;
+display: inline-block;
+min-width: 120px;
+}
+.reviewIconsTwo {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px 0px var(--padding-11xs-5);
+color: var(--color-black);
+}
+.ratingIconParent {
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: flex-start;
+gap: var(--gap-6xs-2);
+color: var(--color-gray-200);
+}
+.emptyReview {
+position: relative;
+line-height: 16px;
+display: inline-block;
+min-width: 55px;
+flex-shrink: 0;
+white-space: nowrap;
+}
+.strikethrough7499 {
+position: relative;
+text-decoration: line-through;
+line-height: 14px;
+display: inline-block;
+min-width: 44.1px;
+flex-shrink: 0;
+white-space: nowrap;
+}
+.strikethroughPrices {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-12xs) 0px 0px;
+font-size: var(--font-size-sm);
+color: var(--color-black);
+}
+.emptyReviewParent {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-xs);
+}
+.moreFeatures {
+position: relative;
+font-size: var(--regular-body-size);
+font-weight: 500;
+font-family: var(--font-roboto);
+color: var(--text-black-10);
+text-align: center;
+display: inline-block;
+min-width: 104px;
+}
+.buttonactive {
+cursor: pointer;
+border: none;
+padding: var(--padding-smi-5) var(--padding-26xl);
+background-color: var(--color-black);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+white-space: nowrap;
+}
+.buttonactive:hover {
+background-color: var(--color-darkslategray-400);
+}
+.materialSymbolsfavoriteOutlIcon {
+height: 27px;
+width: 27px;
+position: relative;
+overflow: hidden;
+flex-shrink: 0;
+}
+.frameLove {
+height: 44px;
+width: 44px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+background-color: var(--color-gray-600);
+border: 1px solid var(--color-gray-400);
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+padding: var(--padding-base) var(--padding-6xs);
+}
+.moreFeaturesButtons {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-5xl);
+}
+.frameParent {
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-lgi-5);
+color: var(--color-darkslategray-500);
+}
+.julianMelansonBenzaMamanParent {
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-base-5);
+font-size: var(--font-size-mid);
+}
+.chatgptCompleteGuideLearnParent {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-9xl);
+}
+.link2Inner {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px var(--padding-3xl) 0px var(--padding-5xl);
+}
+.link2 {
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 1px 2px rgba(0, 0, 0, 0.15), 0px 1px 4px rgba(0, 0, 0, 0.15);
+background-color: var(--text-black-10);
+border: 1px solid var(--color-black);
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+justify-content: flex-start;
+padding: 0px 0px var(--padding-2xl);
+gap: var(--gap-5xl);
+}
+.containerIcon2 {
+align-self: stretch;
+height: 173px;
+position: relative;
+max-width: 100%;
+overflow: hidden;
+flex-shrink: 0;
+object-fit: cover;
+}
+.chatgptMidjourney {
+align-self: stretch;
+position: relative;
+line-height: 19.2px;
+}
+.antonVoroniukAnton {
+position: relative;
+font-size: var(--font-size-sm);
+line-height: 22px;
+}
+.b {
+position: relative;
+letter-spacing: -0.05px;
+line-height: 20px;
+display: inline-block;
+min-width: 26px;
+}
+.svgIcon2 {
+width: 18.6px;
+height: 16.6px;
+position: relative;
+overflow: hidden;
+flex-shrink: 0;
+}
+.svgWrapper {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px 0px var(--padding-10xs-4);
+}
+.kReviews2 {
+text-decoration: none;
+position: relative;
+line-height: 20px;
+color: inherit;
+display: inline-block;
+min-width: 120px;
+}
+.kReviewsWrapper {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px 0px var(--padding-12xs);
+}
+.parent {
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: flex-start;
+gap: var(--gap-7xs-2);
+}
+.b1 {
+position: relative;
+line-height: 16px;
+display: inline-block;
+min-width: 55px;
+flex-shrink: 0;
+white-space: nowrap;
+}
+.strikethrough74991 {
+position: relative;
+text-decoration: line-through;
+line-height: 14px;
+display: inline-block;
+min-width: 44.1px;
+flex-shrink: 0;
+white-space: nowrap;
+}
+.strikethrough7499Wrapper {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-12xs) 0px 0px;
+font-size: var(--font-size-sm);
+}
+.group {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-xs);
+}
+.moreFeatures1 {
+position: relative;
+font-size: var(--regular-body-size);
+font-weight: 500;
+font-family: var(--font-roboto);
+color: var(--text-black-10);
+text-align: center;
+display: inline-block;
+min-width: 104px;
+}
+.buttonactive1 {
+cursor: pointer;
+border: none;
+padding: var(--padding-smi-5) var(--padding-26xl);
+background-color: var(--color-black);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+white-space: nowrap;
+}
+.buttonactive1:hover {
+background-color: var(--color-darkslategray-400);
+}
+.materialSymbolsfavoriteOutlIcon1 {
+height: 27px;
+width: 27px;
+position: relative;
+overflow: hidden;
+flex-shrink: 0;
+}
+.frameLove1 {
+height: 44px;
+width: 44px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+background-color: var(--color-gray-600);
+border: 1px solid var(--color-gray-400);
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+padding: var(--padding-base) var(--padding-6xs);
+}
+.buttonactiveParent {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-5xl);
+}
+.frameGroup {
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-lgi-5);
+}
+.antonVoroniukAntonVoroniukParent {
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-base-8);
+font-size: var(--font-size-mid);
+}
+.chatgptMidjourneyPersonalParent {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-18xl);
+}
+.link3Inner {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px var(--padding-3xl) 0px var(--padding-5xl);
+}
+.link3 {
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 1px 2px rgba(0, 0, 0, 0.15), 0px 1px 4px rgba(0, 0, 0, 0.15);
+background-color: var(--text-black-10);
+border: 1px solid var(--color-black);
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+justify-content: flex-start;
+padding: 0px 0px var(--padding-2xl);
+gap: var(--gap-5xl);
+font-size: var(--regular-body-size);
+}
+.containerIcon3 {
+align-self: stretch;
+height: 173px;
+position: relative;
+max-width: 100%;
+overflow: hidden;
+flex-shrink: 0;
+object-fit: cover;
+}
+.theCompleteAiPowered1 {
+margin: 0;
+}
+.copywritingCourse1 {
+margin: 0;
+}
+.theCompleteAiPoweredContainer1 {
+align-self: stretch;
+position: relative;
+line-height: 24px;
+}
+.academindByMaximilian {
+position: relative;
+font-size: var(--font-size-sm);
+line-height: 20px;
+}
+.theCompleteAiPoweredCopywrParent {
+align-self: stretch;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-7xs);
+}
+.b2 {
+position: relative;
+letter-spacing: -0.05px;
+line-height: 20px;
+display: inline-block;
+min-width: 26px;
+}
+.svgIcon3 {
+width: 18.6px;
+height: 16.6px;
+position: relative;
+overflow: hidden;
+flex-shrink: 0;
+}
+.svgContainer {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px 0px var(--padding-10xs-4);
+}
+.kReviews3 {
+position: relative;
+line-height: 20px;
+display: inline-block;
+min-width: 120px;
+}
+.kReviewsContainer {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px 0px var(--padding-12xs);
+}
+.container {
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: flex-start;
+gap: var(--gap-7xs-7);
+font-size: var(--font-size-mid);
+}
+.frameContainer {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: 16.8px;
+}
+.link4Inner {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-end;
+padding: 0px var(--padding-3xl) 0px var(--padding-5xl);
+}
+.sectionSectionCarousel1 {
+width: 100%;
+height: 100%;
+z-index: 1;
+object-fit: contain;
+position: absolute;
+left: 0px;
+top: 4px;
+transform: scale(1.471);
+}
+.wrapperSectionSectionCa1 {
+width: 51px;
+height: 51px;
+position: absolute;
+margin: 0 !important;
+right: -41px;
+bottom: 180px;
+z-index: 1;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.link4 {
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 1px 2px rgba(0, 0, 0, 0.15), 0px 1px 4px rgba(0, 0, 0, 0.15);
+background-color: var(--text-black-10);
+border: 1px solid var(--color-black);
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+justify-content: flex-start;
+padding: 0px 0px var(--padding-2xl);
+position: relative;
+gap: var(--gap-5xl);
+}
+.featuredCourse {
+width: 1290px;
+display: grid;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-lg);
+max-width: 100%;
+grid-template-columns: repeat(4, minmax(232px, 1fr));
+text-align: left;
+font-size: var(--font-size-lg);
+color: var(--color-black);
+font-family: var(--font-roboto);
+}
+
+@media screen and (max-width: 1150px) {
+.featuredCourse {
+justify-content: center;
+grid-template-columns: repeat(2, minmax(232px, 402px));
+}
+
+}
+@media screen and (max-width: 800px) {
+.featuredCourse {
+grid-template-columns: minmax(232px, 1fr);
+}
+
+}
+@media screen and (max-width: 450px) {
+.moreFeaturesButtons {
+flex-wrap: wrap;
+}
+
+.buttonactiveParent {
+flex-wrap: wrap;
+}
+
+.chatgptMidjourneyPersonalParent {
+gap: var(--gap-lg);
+}
+
+}

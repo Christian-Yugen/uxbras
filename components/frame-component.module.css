@@ -1,0 +1,309 @@
+.heading2 {
+margin: 0;
+width: 394px;
+position: relative;
+font-size: inherit;
+line-height: 29px;
+font-weight: 700;
+font-family: inherit;
+display: flex;
+align-items: center;
+max-width: 100%;
+}
+.pmiProjectManagement {
+margin: 0;
+}
+.professionalPmp {
+margin: 0;
+}
+.pmiProjectManagementContainer {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+}
+.link {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-mini) var(--padding-7xl) var(--padding-mid) var(--padding-10xl);
+flex-shrink: 0;
+}
+.microsoftPowerBi {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+}
+.link1 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-6xl) var(--padding-31xl) var(--padding-7xl) var(--padding-34xl);
+flex-shrink: 0;
+}
+.linkParent {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-5xs);
+min-width: 247px;
+max-width: 252px;
+}
+.projectManagement {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+}
+.link2 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-6xl) var(--padding-23xl) var(--padding-7xl) var(--padding-27xl);
+flex-shrink: 0;
+}
+.sql {
+width: 32.1px;
+position: relative;
+line-height: 19.2px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-shrink: 0;
+min-width: 32.1px;
+}
+.link3 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: center;
+padding: var(--padding-6xl) var(--padding-xl) var(--padding-7xl) var(--padding-2xl);
+flex-shrink: 0;
+}
+.linkGroup {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-5xs);
+min-width: 247px;
+max-width: 252px;
+}
+.dataModeling {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+display: inline-block;
+min-width: 111.2px;
+}
+.link4 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-6xl) var(--padding-48xl) var(--padding-7xl) var(--padding-51xl);
+flex-shrink: 0;
+}
+.pmiPmbok {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+display: inline-block;
+min-width: 93.4px;
+}
+.link5 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-6xl) var(--padding-57xl) var(--padding-7xl) var(--padding-60xl);
+flex-shrink: 0;
+}
+.linkContainer {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-5xs);
+min-width: 247px;
+max-width: 252px;
+}
+.businessAnalysis {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+}
+.link6 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-6xl) var(--padding-35xl) var(--padding-7xl) var(--padding-39xl);
+flex-shrink: 0;
+}
+.realEstateInvesting {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+}
+.link7 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-6xl) var(--padding-23xl) var(--padding-7xl) var(--padding-26xl);
+flex-shrink: 0;
+}
+.frameDiv {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-5xs);
+min-width: 247px;
+max-width: 252px;
+}
+.dataAnalysis {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+display: inline-block;
+min-width: 102.6px;
+}
+.link8 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-6xl) var(--padding-52xl) var(--padding-7xl) var(--padding-55xl);
+flex-shrink: 0;
+}
+.pmiCertifiedAssociate {
+margin: 0;
+}
+.projectManagement1 {
+margin: 0;
+}
+.capm {
+margin: 0;
+}
+.pmiCertifiedAssociateContainer {
+flex: 1;
+position: relative;
+line-height: 19.2px;
+}
+.link9 {
+align-self: stretch;
+border: 2px solid var(--color-darkslategray-500);
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-7xs) var(--padding-6xl) var(--padding-6xs) var(--padding-8xl);
+flex-shrink: 0;
+}
+.linkParent1 {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+gap: var(--gap-5xs);
+min-width: 247px;
+max-width: 252px;
+}
+.container {
+width: 1292px;
+overflow: hidden;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+justify-content: center;
+gap: var(--gap-5xs);
+max-width: 100%;
+text-align: center;
+font-size: var(--regular-body-size);
+}
+.sectionProgramas {
+flex: 1;
+background-color: var(--color-whitesmoke-200);
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: var(--padding-36xl) var(--padding-43xl) var(--padding-46xl-1);
+box-sizing: border-box;
+gap: var(--gap-21xl-8);
+max-width: 100%;
+}
+.sectionProgramasWrapper {
+align-self: stretch;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+justify-content: flex-start;
+padding: 0px 0px var(--padding-36xl);
+box-sizing: border-box;
+max-width: 100%;
+text-align: left;
+font-size: var(--font-size-13xl);
+color: var(--color-darkslategray-500);
+font-family: var(--font-roboto);
+}
+
+@media screen and (max-width: 1350px) {
+.sectionProgramas {
+padding-left: var(--padding-12xl);
+padding-right: var(--padding-12xl);
+box-sizing: border-box;
+}
+
+}
+@media screen and (max-width: 800px) {
+.heading2 {
+font-size: var(--font-size-7xl);
+line-height: 23px;
+}
+
+.sectionProgramas {
+gap: var(--gap-xl);
+}
+
+}
+@media screen and (max-width: 450px) {
+.heading2 {
+font-size: var(--font-size-lgi);
+line-height: 17px;
+}
+
+.sectionProgramasWrapper {
+padding-bottom: var(--padding-17xl);
+box-sizing: border-box;
+}
+
+}
